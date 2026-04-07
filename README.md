@@ -8,12 +8,12 @@
 ### Ejecución
 1.  **Compilar los archivos de TypeScript:**
     ```bash
-    tsc saludo.ts operaciones.ts
+    tsc saludo.ts Ejercicios1al15.ts
     ```
 
 2.  **Ejecutar los ejercicios en la terminal:**
     ```bash
-    node operaciones.js
+    node Ejercicios1al15.js
     ```
 
 3.  **Ver el ejercicio web:**
