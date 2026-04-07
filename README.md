@@ -3,7 +3,7 @@
 ### Estructura
 
 * **`saludo.ts` / `index.html`**: Resolución del Ejercicio 1.1. 
-* **`operaciones.ts`**: Bloque principal que contiene del Ejercicio 1 al 15 (operaciones matemáticas, prioridad de operadores, uso de variables y tipos de datos).
+* **`Ejercicios1al15.ts`**: Bloque principal que contiene del Ejercicio 1 al 15 (operaciones matemáticas, prioridad de operadores, uso de variables y tipos de datos).
 
 ### Ejecución
 1.  **Compilar los archivos de TypeScript:**
