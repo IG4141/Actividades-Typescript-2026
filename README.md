@@ -1,3 +1,5 @@
+**Ivo Giuliano Cappetto** 
+
 ### Estructura
 
 * **`saludo.ts` / `index.html`**: Resolución del Ejercicio 1.1. 
@@ -19,4 +21,4 @@
 
 ---
 
-* **Ivo Giuliano Cappetto** 
+
